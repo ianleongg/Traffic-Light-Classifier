@@ -30,7 +30,7 @@ The goals / steps of this project are the following:
 [image2]: ./Result_Images/2.png "2"
 [image3]: ./Result_Images/3.png "3"
 [image4]: ./Result_Images/4.png "4"
-[image4]: ./Result_Images/5.png "5"
+[image5]: ./Result_Images/5.png "5"
 
 ### README
 
@@ -59,7 +59,7 @@ The goals / steps of this project are the following:
 
 Example of data:
 ![alt text][image1]
-![alt text][image2]
+
 
 #### 2. Pre-process the Data
 
