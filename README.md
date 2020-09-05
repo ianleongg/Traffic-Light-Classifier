@@ -36,7 +36,7 @@ The goals / steps of this project are the following:
 
 - The implementation of the traffic light classifier can be found in [project code](./Traffic_Light_Classifer.ipynb). 
 
-- The classifier gave an accuracy of *92.92%* and *never* classify red lights as green.
+- The classifier gave an accuracy of **92.92%** and **never** classify red lights as green.
 
 - An example of the process:
 
